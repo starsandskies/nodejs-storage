@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/storage?activeTab=versions
 
+## [7.8.0](https://github.com/googleapis/nodejs-storage/compare/v7.7.0...v7.8.0) (2024-02-12)
+
+
+### Features
+
+* Base TPC Support ([#2397](https://github.com/googleapis/nodejs-storage/issues/2397)) ([a3f4891](https://github.com/googleapis/nodejs-storage/commit/a3f4891ee60e57cc19929489cae6110b07955216))
+
 ## [7.7.0](https://github.com/googleapis/nodejs-storage/compare/v7.6.0...v7.7.0) (2023-11-29)
 
 
